@@ -12,7 +12,8 @@
 <p align="center">
   <a href="https://github.com/Adityawir0410">GitHub</a> •
   <a href="https://www.linkedin.com/in/aditya-wirayudha/">LinkedIn</a> •
-  <a href="mailto:anakwirayudha@gmail.com">Email</a>
+  <a href="mailto:anakwirayudha@gmail.com">Email</a> •
+  <a href="http://103.87.67.157.nip.io">Live Demo Aplikasi</a>
 </p>
 
 ---
@@ -52,6 +53,8 @@ Setelah script selesai dijalankan, script akan otomatis menampilkan versi dari m
 ## Tentang Proyek Ini
 
 Repository ini merupakan salah satu deliverable dari Technical Assessment DevOps Engineer Intern di PT Sekawan Media Informatika, yang mencakup provisioning VM, deployment aplikasi Laravel, konfigurasi environment server (Nginx, PHP, MariaDB), serta automasi setup server seperti pada script ini.
+
+Aplikasi hasil deployment dapat diakses secara publik pada: **[http://103.87.67.157.nip.io](http://103.87.67.157.nip.io)**
 
 ## Author
 
